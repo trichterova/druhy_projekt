@@ -1,9 +1,19 @@
 body {
-    background-color: rgb(208, 119, 119);
-    color: brown;
+    background-color: rgb(196, 141, 70);
+    color: rgb(102, 16, 16);
+    font-size: 30px;
 }
 
-h1{
+h1 {
     color: black;
-    
+    text-align: center;
+    font-family: arial;
+    background-color: rgb(142, 94, 63);
+    padding: 30px 30px;
+    margin: 30px 30px;
+    border-radius: 50%;
+}
+
+p {
+    text-align: center;
 }
